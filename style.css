@@ -272,11 +272,7 @@ section {
 }
 
 .about-image::before {
-  content: '{ code }';
-  font-family: var(--font-mono);
-  font-size: 2rem;
-  color: var(--accent-cyan);
-  opacity: 0.3;
+  content: none;
 }
 
 /* Skills Section */
